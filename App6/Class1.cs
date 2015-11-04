@@ -9,7 +9,7 @@ namespace App6
     class Class1
     {
 
-        //sadasdkjhkjhkj
+        //sadasd
 
     }
 }
